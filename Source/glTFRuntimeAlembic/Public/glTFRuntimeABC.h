@@ -3,6 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "Algo/Accumulate.h"
 #include "Async/ParallelFor.h"
 
 UENUM()
